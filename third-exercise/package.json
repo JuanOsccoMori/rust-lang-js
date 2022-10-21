@@ -1,0 +1,14 @@
+{
+  "name": "third-exercise",
+  "version": "1.0.0",
+  "description": "- factorial-for.js -> Este archivo debe calcular el factorial de 10 utilizando un solo bucle for",
+  "main": "index.js",
+  "scripts": {
+    "test-break": "node factorial-break.js",
+    "test-while": "node factorial-while.js",
+    "test-for": "node factorial-for.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
