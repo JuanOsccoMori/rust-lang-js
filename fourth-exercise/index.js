@@ -15,6 +15,6 @@ let letter_end = student.charAt(23);
 
 let letter_space = student.replace(/\s+/g,'');
 
-let name_find = student.includes("Juan Carlos");
+let name_find = student.includes(name);
 
 console.log(name_find);
