@@ -1,0 +1,12 @@
+{
+  "name": "fifth-exercise",
+  "version": "1.0.0",
+  "description": "- Una variable que contenga tu altura en centímetros (entero)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
