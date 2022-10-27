@@ -1,0 +1,12 @@
+{
+  "name": "eighth-exercise",
+  "version": "1.0.0",
+  "description": "Crea un archivo llamado objetos.js que contenga las siguientes líneas",
+  "main": "conjuntos.js",
+  "scripts": {
+    "start": "node conjuntos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
