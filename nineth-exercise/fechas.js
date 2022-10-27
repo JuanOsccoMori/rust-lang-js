@@ -9,7 +9,6 @@ const later = date > date_my_born;
 console.log(later);
 
 const my_day_born = date_my_born.getDate();
-
 const my_month_born = date_my_born.getMonth() + 1;
 const my_year_born = date_my_born.getFullYear();
 
