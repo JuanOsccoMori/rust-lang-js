@@ -1,0 +1,12 @@
+{
+  "name": "seventh-exercise",
+  "version": "1.0.0",
+  "description": "Crea un archivo llamado conjuntos.js que contenga las siguientes líneas",
+  "main": "conjuntos.js",
+  "scripts": {
+    "conjuntos": "node conjuntos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
