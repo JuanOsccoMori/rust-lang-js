@@ -9,11 +9,7 @@ const age = my_data.age;
 
 const circle = [
     {
-        name: "Juan",
-        last_name: "Oscco Mori",
-        age: 24,
-        heigth: 165,
-        isDeveloper: true
+        ...my_data
     },
     {
         name: "Hector Alonso",
