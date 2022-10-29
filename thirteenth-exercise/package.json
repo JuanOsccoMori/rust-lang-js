@@ -1,0 +1,16 @@
+{
+  "name": "thirteenth-exercise",
+  "version": "1.0.0",
+  "description": "Crea un nuevo proyecto de Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  }
+}
